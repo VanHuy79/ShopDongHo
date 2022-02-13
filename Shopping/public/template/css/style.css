@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body main-menu > li > a {
+    font-family: 'Oswald', sans-serif, !important;
+}
+
+ul li a, i, h4, p{
+    color: rgb(183, 192, 50) !important;
+    font-size: 18px !important;
+}
+span, h2 , a, h3{
+    color: rgb(183, 192, 50) !important;
+}
+
+.color {
+    color: rgb(183, 192, 50) !important;
+}
